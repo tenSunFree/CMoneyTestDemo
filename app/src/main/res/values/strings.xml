@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CMoneyTestDemo</string>
+    <string name="activity_first_title">First</string>
+    <string name="activity_first_json_placeholder">JSON Placeholder</string>
+    <string name="activity_first_request_api">Request API</string>
+    <string name="activity_second_title">Second</string>
+</resources>
